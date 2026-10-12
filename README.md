@@ -1,6 +1,6 @@
 # Absensi RDMKU Android (build APK otomatis)
 
-Proyek Android awal untuk membuka `https://absensi.rdmku.cloud/preview2.html`, mengalihkan pemanggilan Web Speech API (`speechSynthesis.speak`) ke Android TextToSpeech, dan menjaga layanan TTS sebagai foreground service.
+Proyek Android awal untuk membuka `https://absensi.rdmku.cloud/index.html`, mengalihkan pemanggilan Web Speech API (`speechSynthesis.speak`) ke Android TextToSpeech, dan menjaga layanan TTS sebagai foreground service.
 
 ## Fitur awal
 - WebView membuka halaman jadwal dari FastPanel.
